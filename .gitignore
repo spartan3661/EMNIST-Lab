@@ -1,0 +1,8 @@
+*
+
+!runs/
+!*.ipynb
+!config.json
+
+
+!.gitignore
